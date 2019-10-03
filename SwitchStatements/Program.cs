@@ -16,6 +16,9 @@ namespace SwitchStatements
             switch (sFullName);
             {
                 case "Bill Gates";
+                sgreeting = "Great Job on C#";
+                case "Cathy Folkard";
+                sgreeting = "That Cathy is really cool";
             }
         }
     }
